@@ -1,0 +1,17 @@
+# Du lieu rieng cua tung may - khong dua len GitHub
+dock_apps.json
+dock_apps.*.json
+dock_settings.json
+dock.log
+tidy_desktop_log.json
+quit.flag
+show.flag
+debug.flag
+__pycache__/
+*.tmp
+
+# icons/: anh icon trich tu ung dung tren may (cache) + favicon trang web (logo cua hang khac)
+icons/*
+!icons/mekong_dock.ico
+!icons/mekong_dock_preview.png
+!icons/mail.ico
